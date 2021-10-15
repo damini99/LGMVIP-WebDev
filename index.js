@@ -8,6 +8,7 @@ function myFunction() {
   }
 }
 
+
 // slide
 var slideIndex = 0;
 showSlides();
